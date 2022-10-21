@@ -34,4 +34,4 @@ func main() {
   //var bob User =
   //bob := User{name:"Bob", age:25, mony: -50, avg_grades: 4.2, happiness:0.8}
   HandleRequest()
-}
+}777777777777777ewddfw
